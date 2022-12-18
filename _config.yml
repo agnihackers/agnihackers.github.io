@@ -1,6 +1,6 @@
 # main text of home
-name: Gal Nagli
-bio: AppSec @enso.security | Bug Bounty Hunter | B.Sc Computer Science Student
+name: ZhackX
+bio: White Hat Hacker
 
 # twitter summary info
 description: My online portfolio
@@ -10,9 +10,9 @@ dark-theme: true
 # better with square images
 external-image: false
 #picture: /assets/images/cartoon_profile.jpeg
-picture: /assets/images/nagli.jpeg
+picture: /assets/images/binary.jpg
 
-url: https://galnagli.com
+url: https://www.zhackx.com
 # your url: https://USERNAME.github.io
 
 permalink: /:title/
@@ -30,18 +30,18 @@ disqus:
   categories: [blog, project] # only show disqus for posts that have these categories
 
 # if you don't have any of social below, comment the line
-twitter: naglinagli
-linkedin: galnagli
-github: naglinagli
+twitter: AGNIHACKERS1
+linkedin: mahin-vm
+github: agnihackers
 
 authors:
-  galnagli:
-    name: Gal Nagli
+  Zhackx:
+    name: MAHIN VM
     bio: A Man who enjoys the art of study, breaking stuff when I can.
     external-image: false
     #picture: /assets/images/cartoon_profile.jpeg
-    picture: /assets/images/nagli.jpeg
-    twitter: naglinagli
+    picture: /assets/images/binary.jpg
+    twitter: AGNIHACKERS1
 
 # do you want a larger site? change the option below
 # options: [normal, large] | default: normal
