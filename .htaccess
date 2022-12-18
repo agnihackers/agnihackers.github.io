@@ -1,0 +1,35 @@
+RewriteEngine on
+RewriteCond %{HTTP_HOST} ^zhackx.com [NC,OR]
+RewriteCond %{HTTP_HOST} ^zhackx.com [NC]
+RewriteRule ^(.*)$ https://zhackx.com/$1 [L,R=301,NC]
+
+
+RewriteEngine On 
+RewriteCond %{SERVER_PORT} 80
+RewriteCond %{HTTP_HOST} ^(www\.)?zhackx.com\.in
+RewriteRule ^(.*)$ https://zhackx.com/$1 [R,L]
+<IfModule mod_rewrite.c>
+RewriteEngine On
+RewriteBase /
+RewriteRule ^index\.php$ - [L]
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule . /index.php [L]
+</IfModule>
+
+#SetEnvIfNoCase
+<IfModule mod_gzip.c>
+mod_gzip_on Yes
+mod_gzip_item_include file .html$
+mod_gzip_item_include file .php$
+mod_gzip_item_include file .css$
+mod_gzip_item_include file .js$
+mod_gzip_item_include mime ^application/javascript$
+mod_gzip_item_include mime ^application/x-javascript$
+mod_gzip_item_include mime ^text/.*
+mod_gzip_item_include handler ^application/x-httpd-php
+mod_gzip_item_exclude mime ^image/.*
+
+</IfModule>
+
+Options All -Indexes
