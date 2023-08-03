@@ -1,13 +1,13 @@
 RewriteEngine on
-RewriteCond %{HTTP_HOST} ^zhackx.com [NC,OR]
-RewriteCond %{HTTP_HOST} ^zhackx.com [NC]
-RewriteRule ^(.*)$ https://zhackx.com/$1 [L,R=301,NC]
+RewriteCond %{HTTP_HOST} ^zhackx.fun [NC,OR]
+RewriteCond %{HTTP_HOST} ^zhackx.fun [NC]
+RewriteRule ^(.*)$ https://zhackx.fun/$1 [L,R=301,NC]
 
 
 RewriteEngine On 
 RewriteCond %{SERVER_PORT} 80
-RewriteCond %{HTTP_HOST} ^(www\.)?zhackx.com\.in
-RewriteRule ^(.*)$ https://zhackx.com/$1 [R,L]
+RewriteCond %{HTTP_HOST} ^(www\.)?zhackx.fun\.in
+RewriteRule ^(.*)$ https://zhackx.fun/$1 [R,L]
 <IfModule mod_rewrite.c>
 RewriteEngine On
 RewriteBase /
