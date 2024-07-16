@@ -12,7 +12,7 @@ external-image: false
 #picture: /assets/images/cartoon_profile.jpeg
 picture: /assets/images/binary.jpg
 
-url: https://www.zhackx.com
+url: https://www.zhackx.in
 # your url: https://USERNAME.github.io
 
 permalink: /:title/
