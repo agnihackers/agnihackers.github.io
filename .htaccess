@@ -2,7 +2,8 @@ RewriteEngine on
 
 # Redirect non-www to www
 RewriteCond %{HTTP_HOST} ^zhackx.in [NC,OR]
-RewriteCond %{HTTP_HOST} ^www.zhackx.in [NC]
+RewriteCond %{HTTP_HOST} ^www.zhackx.com [NC,OR]
+RewriteCond %{HTTP_HOST} ^zhackx.com [NC]
 RewriteRule ^(.*)$ https://www.zhackx.in/$1 [L,R=301,NC]
 
 # Redirect HTTP to HTTPS
