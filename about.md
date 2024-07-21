@@ -61,7 +61,7 @@ layout: page
 <p><ul><li>Vulnerability Assessment and Penetration Testing (VAPT)</li></ul>
 <ul><li>Cloud Security</li></ul>
 <ul><li>Bug Bounty Hunting</li></ul>
-<ul><li>PCI</li></ul>
+<ul><li>PCI DSS</li></ul>
 <ul><li>Cybersecurity</li></ul>
 <ul><li>Ethical Hacking</li></ul>
 <ul><li>Web and Android Vulnerability Assessment</li></ul>
