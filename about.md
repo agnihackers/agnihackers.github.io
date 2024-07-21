@@ -69,7 +69,7 @@ layout: page
 <br>
 <h3>Projects:</h3>
 <p><ol type="1">
-<a href="https://www.linkedin.com/in/mahin-vm/details/projects/"><li>AEM-Finder Tool</b>: An Adobe Experience Manager Internal Information Disclosure Vulnerability Scanner.</li></a>
-<a href="https://www.linkedin.com/in/mahin-vm/details/projects/"><li>IPGen Tool</b>: Generating IP lists with additional features.</li></a>
-<a href="https://www.linkedin.com/in/mahin-vm/details/projects/"><li>Social Media App</b>: 1st Prize Startup Winner.</li></a>
+<a href="https://www.linkedin.com/in/mahin-vm/details/projects/"><li>AEM-Finder Tool: An Adobe Experience Manager Internal Information Disclosure Vulnerability Scanner.</li></a>
+<a href="https://www.linkedin.com/in/mahin-vm/details/projects/"><li>IPGen Tool: Generating IP lists with additional features.</li></a>
+<a href="https://www.linkedin.com/in/mahin-vm/details/projects/"><li>Social Media App: 1st Prize Startup Winner.</li></a>
 </ol></p>
