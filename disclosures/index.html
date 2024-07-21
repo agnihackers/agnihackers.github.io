@@ -50,6 +50,9 @@ body {
     }
 }
     </style>
+  <footer class="footer-main">
+     © {{ site.time | date: '%Y' }} {{ site.name }}     
+  </footer>
     </head> 
     <body> <main class="wrapper"> 
     <header class="site-header"> <nav class="nav"> 
@@ -193,9 +196,5 @@ body {
         <noscript>
             <div class="panel"><h1>Please enable JavaScript.</h1></div>
         </noscript>
-
-  <footer class="footer-main">
-     © {{ site.time | date: '%Y' }} {{ site.name }}     
-  </footer>
        
 </html>
