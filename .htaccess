@@ -1,13 +1,15 @@
+# Redirect non-www to www and enforce HTTPS
 RewriteEngine on
 RewriteCond %{HTTP_HOST} ^zhackx.in [NC,OR]
-RewriteCond %{HTTP_HOST} ^zhackx.in [NC]
-RewriteRule ^(.*)$ https://zhackx.in/$1 [L,R=301,NC]
+RewriteCond %{HTTP_HOST} ^www.zhackx.in [NC]
+RewriteRule ^(.*)$ https://www.zhackx.in/$1 [L,R=301,NC]
 
-
-RewriteEngine On 
+# Enforce HTTPS for all connections
 RewriteCond %{SERVER_PORT} 80
 RewriteCond %{HTTP_HOST} ^(www\.)?zhackx.in
-RewriteRule ^(.*)$ https://zhackx.in/$1 [R,L]
+RewriteRule ^(.*)$ https://www.zhackx.in/$1 [R,L]
+
+# Basic rewrite rules for handling requests
 <IfModule mod_rewrite.c>
 RewriteEngine On
 RewriteBase /
@@ -17,7 +19,7 @@ RewriteCond %{REQUEST_FILENAME} !-d
 RewriteRule . /index.php [L]
 </IfModule>
 
-#SetEnvIfNoCase
+# Gzip compression for specific file types
 <IfModule mod_gzip.c>
 mod_gzip_on Yes
 mod_gzip_item_include file .html$
@@ -29,7 +31,7 @@ mod_gzip_item_include mime ^application/x-javascript$
 mod_gzip_item_include mime ^text/.*
 mod_gzip_item_include handler ^application/x-httpd-php
 mod_gzip_item_exclude mime ^image/.*
-
 </IfModule>
 
+# Disable directory listing
 Options All -Indexes
