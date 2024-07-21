@@ -16,10 +16,10 @@ layout: page
 
 <h3>Licenses & Certifications:</h3>
 <p><ol type="1">
-<li><a href="https://aspen.eccouncil.org/VerifyBadge?type=certification&a=FqeiSIeHZe8lwQ/LfR0xErSQyyN2WftpT3n4kBehYkM=">CEH Master at EC-Council (Issued Jan 2023)</a></li>
-<li><a href="https://drive.google.com/file/d/1IaTKfSqs-ts93UwBBFyBewgWmOP0RiJR/view"><b>Mobile Application Penetration Testing at TCM Security (Issued May 2023)</b></a></li>
-<li><a href="https://drive.google.com/file/d/1YEVQgkD4_qgPPNCpVGQCeyfb373PZtl7/view"><b>DIPLOMA IN INFORMATION SECURITY AND CYBER DEFENSE (DISCD) at RedTeam Hacker Academy (Issued Jun 2023)</b></a></li>
-<li><a href="https://www.credly.com/badges/7b8e8f29-0cbe-4935-ab79-13580f79cf89/public_url"><b>API Penetration Testing at APIsec University (Issued May 2023)</b></a></li>
+<a href="https://aspen.eccouncil.org/VerifyBadge?type=certification&a=FqeiSIeHZe8lwQ/LfR0xErSQyyN2WftpT3n4kBehYkM="><li>CEH Master at EC-Council (Issued Jan 2023)</li></a>
+<a href="https://drive.google.com/file/d/1IaTKfSqs-ts93UwBBFyBewgWmOP0RiJR/view"><li>Mobile Application Penetration Testing at TCM Security (Issued May 2023)</li>
+<a href="https://drive.google.com/file/d/1YEVQgkD4_qgPPNCpVGQCeyfb373PZtl7/view"><li>DIPLOMA IN INFORMATION SECURITY AND CYBER DEFENSE (DISCD) at RedTeam Hacker Academy (Issued Jun 2023)</li></a>
+<a href="https://www.credly.com/badges/7b8e8f29-0cbe-4935-ab79-13580f79cf89/public_url"><li>API Penetration Testing at APIsec University (Issued May 2023)</li></a>
 <li><a href="https://aspen.eccouncil.org/VerifyBadge?type=certification&a=9STrOe/U4Q4uw6gL/mghstqawdtqLt0I2aEA6ThSNl4="><b>CEH PRATICAL at EC-Council (Issued Jan 2023)</b></a></li>
 <li><a href="https://aspen.eccouncil.org/VerifyBadge?type=certification&a=K119rO2XSHy8Lea7JeiL2ZJq/SBQ4ORGLAkC29LoOtk="><b>CEH at EC-Council (Issued Jan 2023)</b></a></li>
 <li><a href="https://www.credly.com/badges/2e9146b5-d259-47f7-b9f4-2a274f978ba6"><b>AWS Cloud Security at Amazon Web Services (AWS) (Issued Nov 2023)</b></a></li>
