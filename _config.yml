@@ -1,6 +1,6 @@
 # main text of home
 name: MAHIN VM
-bio: White Hat Hacker | Web Pentester | Red Teamer | VAPT | CEH MASTER | Bug Bounty Hunter | 3-CVE Assigned | HOF Microsoft, Github | Cybersecurity Researcher | Founder & CEO at Fegazine
+bio: White Hat Hacker | Web Pentester | Red Teamer | VAPT | CEH MASTER | Bug Bounty Hunter | Cybersecurity Researcher | 3-CVE Assigned | HOF {Microsoft}  {Github} | Founder & CEO at Fegazine | Volunteer at Kerala Police Cyberdome
 
 # twitter summary info
 description: My online portfolio
@@ -37,7 +37,7 @@ github: agnihackers
 authors:
   Zhackx:
     name: MAHIN VM
-    bio: A Man who enjoys the art of study, breaking stuff when I can.
+    bio: White Hat Hacker | Web Pentester | Red Teamer | VAPT | CEH MASTER | Bug Bounty Hunter | Cybersecurity Researcher | 3-CVE Assigned | HOF {Microsoft}  {Github} | Founder & CEO at Fegazine | Volunteer at Kerala Police Cyberdome
     external-image: false
     #picture: /assets/images/cartoon_profile.jpeg
     picture: /assets/images/binary.jpg
