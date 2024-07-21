@@ -4,10 +4,14 @@ layout: page
 ---
 ![Profile Image]({% if site.external-image %}{{ site.picture }}{% else %}{{ site.url }}/{{ site.picture }}{% endif %})
 
-<p><b>My name is MAHIN VM. I currently work as a Information Security Analyst at NDimensionZ Solutions. Experience in Bug Bounty programs and Cybersecurity Research. I am proficient in vulnerability assessment and penetration testing (VAPT). In 2018, I was awarded the Best Startup Award for my innovative contributions to web application features. Additionally, I secured the 2nd place in Microsoft's Bug Bounty Researcher Hall of Fame in March 2020. 
+<p><b>My name is MAHIN VM. I currently work as a Information Security Analyst at NDimensionZ Solutions. Experience in Bug Bounty programs and Cybersecurity Research. I am proficient in vulnerability assessment and penetration testing (VAPT). In 2018, I was awarded the Best Startup Award for my innovative contributions to web application features. Additionally, I secured the 2nd place in Microsoft's Bug Bounty Researcher Hall of Fame in March 2020.</b>
 
+ <br>
+    
 ### Cybersecurity Education:
-- [Diploma in Information Security and Cyber Defense (DISCD)](https://drive.google.com/file/d/1YEVQgkD4_qgPPNCpVGQCeyfb373PZtl7/view) 
+- [Diploma in Information Security and Cyber Defense (DISCD)](https://drive.google.com/file/d/1YEVQgkD4_qgPPNCpVGQCeyfb373PZtl7/view)
+
+ <br>
 
 ### Latest Internship Experience:
 - Three-month Information Security Analyst internship at NDimensionZ Solutions, Where I gained valuable hands-on experience in vulnerability assessment and penetration testing	on various product-based applications using both manual and automated tools and reported the risk based on OWASP. Collaborated closely with client technical teams to address security gaps, providing tailored recommendations and guidance to achieve PCI DSS compliance. Led PCI DSS compliance assessments for multiple clients, evaluating their payment card processing environments, identifying vulnerabilities, and recommending actionable remediation strategies. Documented POCs and attack methodology on various vulnerabilities and prepared detailed reports. Performing static and dynamic security assessments on Android and IOS applications with tools like APKtool, APKeditor, Jadx, dex2jar, Mobsf, Drozer, Burp suite etc. Performed various types of security assessment on infrastructure devices such as firewalls, servers, WIFI and access-control devices etc. Hand-on experience with following tools- Nessus, Clone Systems, Acunetix scanner, checkmarkx, Jira, Mantis Bug Tracker, etc.
