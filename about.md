@@ -20,20 +20,20 @@ layout: page
 <a href="https://drive.google.com/file/d/1IaTKfSqs-ts93UwBBFyBewgWmOP0RiJR/view"><li>Mobile Application Penetration Testing at TCM Security (Issued May 2023)</li>
 <a href="https://drive.google.com/file/d/1YEVQgkD4_qgPPNCpVGQCeyfb373PZtl7/view"><li>DIPLOMA IN INFORMATION SECURITY AND CYBER DEFENSE (DISCD) at RedTeam Hacker Academy (Issued Jun 2023)</li></a>
 <a href="https://www.credly.com/badges/7b8e8f29-0cbe-4935-ab79-13580f79cf89/public_url"><li>API Penetration Testing at APIsec University (Issued May 2023)</li></a>
-<li><a href="https://aspen.eccouncil.org/VerifyBadge?type=certification&a=9STrOe/U4Q4uw6gL/mghstqawdtqLt0I2aEA6ThSNl4="><b>CEH PRATICAL at EC-Council (Issued Jan 2023)</b></a></li>
-<li><a href="https://aspen.eccouncil.org/VerifyBadge?type=certification&a=K119rO2XSHy8Lea7JeiL2ZJq/SBQ4ORGLAkC29LoOtk="><b>CEH at EC-Council (Issued Jan 2023)</b></a></li>
-<li><a href="https://www.credly.com/badges/2e9146b5-d259-47f7-b9f4-2a274f978ba6"><b>AWS Cloud Security at Amazon Web Services (AWS) (Issued Nov 2023)</b></a></li>
-<li><a href="https://coursera.org/verify/UPBD8VGP52P2"><b>Preparing for Your Professional Cloud Security Engineer Journey at Google Cloud Training Online (Issued Nov 2023)</b></a></li>
-<li><a href="https://drive.google.com/drive/u/0/mobile/folders/1TiOpxA66zvArER91Pjj3eDFlMV54hahy?pli=1"><b>Certified AppSec Practitioner (CAP) at The SecOps Group (Issued Dec 2022)</b></a></li>
-<li><a href="https://codered.eccouncil.org/certificate/7ba36f5f-5a99-4bce-94cc-1eff94f22ada?logged=false"><b>SQL INJECTON ATTACKS at CodeRed (Issued Dec 2022)</b></a></li>
-<li><a href="https://drive.google.com/file/d/138md3ieg5kcTeeEN9trMFdx4CM8URp2k/view?usp=sharing"><b>BEGINNER APPROACH TO BUG HUNTING at RedTeam Cybersecurity Labs LLP (Issued Feb 2022)</b></a></li>
-<li><a href="https://pentesterlab.com/profile/2f0f6ea144a65ba63f20a2d8f3"><b>Android Badge at PentesterLab (Issued Apr 2022)</b></a></li>
-<li><a href="https://pentesterlab.com/profile/2f0f6ea144a65ba63f20a2d8f3"><b>Recon Badge at PentesterLab (Issued Mar 2022)</b></a></li>
-<li><a href="https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-FAEERTBN7M.png"><b>Jr Penetration Tester Learning Path at TryHackMe (Issued Dec 2021)</b></a></li>
-<li><a href="https://udemy-certificate.s3.amazonaws.com/image/UC-130d44d9-2e26-4743-9e26-14efbd84a1e1.jpg"><b>Android Penetration Testing at Udemy (Issued Aug 2020)</b></a></li>
-<li><a href="https://www.udemy.com/certificate/UC-3029a174-3479-45bb-b9d5-192fe1d3cc00/"><b>Android Ethical Hacking Practical Course C|AEHP (Issued Jul 2020)</b></a></li>
-<li><a href="https://drive.google.com/file/d/1bSjj34BVO7KygE0ZzmLDRLqTtyG-xlF3/view?usp=sharing"><b>Advanced Penetration Testing at Cybrary (Issued Dec 2019)</b></a></li>
-<li><a href="https://drive.google.com/file/d/1I0qoLurVm2bqmXte0SGn33wXmVMSxUwK/view?usp=sharing"><b>Penetration Testing and Ethical Hacking at Cybrary (Issued Mar 2019)</b></a></li>
+<a href="https://aspen.eccouncil.org/VerifyBadge?type=certification&a=9STrOe/U4Q4uw6gL/mghstqawdtqLt0I2aEA6ThSNl4="><li>CEH PRATICAL at EC-Council (Issued Jan 2023)</li></a>
+<a href="https://aspen.eccouncil.org/VerifyBadge?type=certification&a=K119rO2XSHy8Lea7JeiL2ZJq/SBQ4ORGLAkC29LoOtk="><li>CEH at EC-Council (Issued Jan 2023)</li></a>
+<a href="https://www.credly.com/badges/2e9146b5-d259-47f7-b9f4-2a274f978ba6"><li>AWS Cloud Security at Amazon Web Services (AWS) (Issued Nov 2023)</li></a>
+<a href="https://coursera.org/verify/UPBD8VGP52P2"><li>Preparing for Your Professional Cloud Security Engineer Journey at Google Cloud Training Online (Issued Nov 2023)</li></a>
+<a href="https://drive.google.com/drive/u/0/mobile/folders/1TiOpxA66zvArER91Pjj3eDFlMV54hahy?pli=1"><li>Certified AppSec Practitioner (CAP) at The SecOps Group (Issued Dec 2022)</li></a>
+<a href="https://codered.eccouncil.org/certificate/7ba36f5f-5a99-4bce-94cc-1eff94f22ada?logged=false"><li>SQL INJECTON ATTACKS at CodeRed (Issued Dec 2022)</li></a>
+<a href="https://drive.google.com/file/d/138md3ieg5kcTeeEN9trMFdx4CM8URp2k/view?usp=sharing"><li>BEGINNER APPROACH TO BUG HUNTING at RedTeam Cybersecurity Labs LLP (Issued Feb 2022)</li></a>
+<a href="https://pentesterlab.com/profile/2f0f6ea144a65ba63f20a2d8f3"><li>Android Badge at PentesterLab (Issued Apr 2022)</li></a>
+<a href="https://pentesterlab.com/profile/2f0f6ea144a65ba63f20a2d8f3"><li>Recon Badge at PentesterLab (Issued Mar 2022)</li></a>
+<a href="https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-FAEERTBN7M.png"><li>Jr Penetration Tester Learning Path at TryHackMe (Issued Dec 2021)</li></a>
+<a href="https://udemy-certificate.s3.amazonaws.com/image/UC-130d44d9-2e26-4743-9e26-14efbd84a1e1.jpg"><li>Android Penetration Testing at Udemy (Issued Aug 2020)</li></a>
+<a href="https://www.udemy.com/certificate/UC-3029a174-3479-45bb-b9d5-192fe1d3cc00/"><li>Android Ethical Hacking Practical Course C|AEHP (Issued Jul 2020)</li></a>
+<a href="https://drive.google.com/file/d/1bSjj34BVO7KygE0ZzmLDRLqTtyG-xlF3/view?usp=sharing"><li>Advanced Penetration Testing at Cybrary (Issued Dec 2019)</li></a>
+<a href="https://drive.google.com/file/d/1I0qoLurVm2bqmXte0SGn33wXmVMSxUwK/view?usp=sharing"><li>Penetration Testing and Ethical Hacking at Cybrary (Issued Mar 2019)</li></a>
 </ol></p>
 <br>
 <h3>Achievements/Honors & Bounties:</h3>
@@ -69,7 +69,9 @@ layout: page
 <ul><li>Programming Languages: C++, JavaScript, HTML, SQL, PHP, Bash Script, Python</li></ul></p>
 <br>
 <h3>Projects:</h3>
-<p><ol type="1"><li><b>AEM-Finder Tool</b>: An Adobe Experience Manager Internal Information Disclosure Vulnerability Scanner.</li>
-<li><b>IPGen Tool</b>: Generating IP lists with additional features.</li>
-<li><b>Social Media App</b>: 1st Prize Startup Winner.</li></ol></p>
+<p><ol type="1">
+<a href="https://www.linkedin.com/in/mahin-vm/details/projects/"><li>AEM-Finder Tool</b>: An Adobe Experience Manager Internal Information Disclosure Vulnerability Scanner.</li></a>
+<a href="https://www.linkedin.com/in/mahin-vm/details/projects/"><li>IPGen Tool</b>: Generating IP lists with additional features.</li></a>
+<a href="https://www.linkedin.com/in/mahin-vm/details/projects/"><li>Social Media App</b>: 1st Prize Startup Winner.</li></a>
+</ol></p>
 </p>
