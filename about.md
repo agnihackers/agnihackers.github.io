@@ -33,7 +33,7 @@ layout: page
 <a href="https://udemy-certificate.s3.amazonaws.com/image/UC-130d44d9-2e26-4743-9e26-14efbd84a1e1.jpg"><li>Android Penetration Testing at Udemy (Issued Aug 2020)</li></a>
 <a href="https://www.udemy.com/certificate/UC-3029a174-3479-45bb-b9d5-192fe1d3cc00/"><li>Android Ethical Hacking Practical Course C|AEHP (Issued Jul 2020)</li></a>
 <a href="https://drive.google.com/file/d/1bSjj34BVO7KygE0ZzmLDRLqTtyG-xlF3/view?usp=sharing"><li>Advanced Penetration Testing at Cybrary (Issued Dec 2019)</li></a>
-<a href="https://drive.google.com/file/d/1I0qoLurVm2bqmXte0SGn33wXmVMSxUwK/view?usp=sharing"><li>Penetration Testing and Ethical Hacking at Cybrary (Issued Mar 2019)</li></a></ol></p>
+<a href="https://drive.google.com/file/d/1I0qoLurVm2bqmXte0SGn33wXmVMSxUwK/view?usp=sharing"><li>Penetration Testing and Ethical Hacking at Cybrary (Issued Mar 2019)</li></a>
 <br>
 <h3>Achievements/Honors & Bounties:</h3>
 <p><ul><li>55 Hall of Fame acknowledgments and 20 bounties from platforms like HackerOne, Bugcrowd, Zerocopter, Federacy, and VDP.</li></ul></p>
