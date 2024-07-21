@@ -3,13 +3,15 @@ RewriteEngine on
 
 # Redirect zhackx.in to www.zhackx.in
 RewriteCond %{HTTP_HOST} ^zhackx\.in$ [NC,OR]
-RewriteCond %{HTTP_HOST} ^www\.zhackx\.com [NC,OR]
-RewriteCond %{HTTP_HOST} ^zhackx\.com [NC,OR]
+RewriteCond %{HTTP_HOST} ^www\.zhackx\.com$ [NC,OR]
+RewriteCond %{HTTP_HOST} ^zhackx\.com$ [NC,OR]
 RewriteCond %{HTTP_HOST} ^www\.zhackx\.in$ [NC]
 RewriteRule ^(.*)$ https://www.zhackx.in/$1 [L,R=301,NC]
 
 # Redirect HTTP to HTTPS
 RewriteCond %{SERVER_PORT} 80
+RewriteCond %{HTTP_HOST} ^zhackx\.com$ [NC]
+RewriteCond %{HTTP_HOST} ^(www\.)?zhackx\.com$ [NC]
 RewriteCond %{HTTP_HOST} ^(www\.)?zhackx\.in$ [NC]
 RewriteRule ^(.*)$ https://www.zhackx.in/$1 [R,L]
 
