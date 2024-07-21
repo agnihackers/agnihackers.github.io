@@ -8,10 +8,10 @@ layout: page
 
 <br> 
 <h3>Cybersecurity Education:</h3> 
-<a href="https://drive.google.com/file/d/1YEVQgkD4_qgPPNCpVGQCeyfb373PZtl7/view"><ul><li>Diploma in Information Security and Cyber Defense (DISCD)</li></ul></a></br>
+<a href="https://drive.google.com/file/d/1YEVQgkD4_qgPPNCpVGQCeyfb373PZtl7/view"><ul><li>Diploma in Information Security and Cyber Defense (DISCD)</li></ul></a>
 
 <h3>Latest Internship Experience:</h3>
-<p><ul type="1"><li>Three-month Information Security Analyst internship at NDimensionZ Solutions, Where I gained valuable hands-on experience in vulnerability assessment and penetration testing	on various product-based applications using both manual and automated tools and reported the risk based on OWASP. Collaborated closely with client technical teams to address security gaps, providing tailored recommendations and guidance to achieve PCI DSS compliance. Led PCI DSS compliance assessments for multiple clients, evaluating their payment card processing environments, identifying vulnerabilities, and recommending actionable remediation strategies. Documented POCs and attack methodology on various vulnerabilities and prepared detailed reports. Performing static and dynamic security assessments on Android and IOS applications with tools like APKtool, APKeditor, Jadx, dex2jar, Mobsf, Drozer, Burp suite etc. Performed various types of security assessment on infrastructure devices such as firewalls, servers, WIFI and access-control devices etc. Hand-on experience with following tools- Nessus, Clone Systems, Acunetix scanner, checkmarkx, Jira, Mantis Bug Tracker, etc.</li></p>
+<p><ul type="1"><li>Three-month Information Security Analyst internship at NDimensionZ Solutions, Where I gained valuable hands-on experience in vulnerability assessment and penetration testing	on various product-based applications using both manual and automated tools and reported the risk based on OWASP. Collaborated closely with client technical teams to address security gaps, providing tailored recommendations and guidance to achieve PCI DSS compliance. Led PCI DSS compliance assessments for multiple clients, evaluating their payment card processing environments, identifying vulnerabilities, and recommending actionable remediation strategies. Documented POCs and attack methodology on various vulnerabilities and prepared detailed reports. Performing static and dynamic security assessments on Android and IOS applications with tools like APKtool, APKeditor, Jadx, dex2jar, Mobsf, Drozer, Burp suite etc. Performed various types of security assessment on infrastructure devices such as firewalls, servers, WIFI and access-control devices etc. Hand-on experience with following tools- Nessus, Clone Systems, Acunetix scanner, checkmarkx, Jira, Mantis Bug Tracker, etc.</li>
 <li>Two-month VAPT internship at Redteam Cybersecurity Labs, where I gained valuable hands-on experience in vulnerability assessment and penetration testing.</li></ul></p>
 
 <h3>Licenses & Certifications:</h3>
@@ -40,7 +40,7 @@ layout: page
 <p><ul><li>Assigned 3 CVEs.</li></ul></p>
 <br>
 <h3>Work Experience:</h3>
-<h4><ol><li>Information Security Analyst, NDimensionZ Solutions Pvt Ltd (June 2024 - Present)</li></ol></h4>
+<h4># Information Security Analyst, NDimensionZ Solutions Pvt Ltd (June 2024 - Present)</h4>
 <p><ul><li>Performed vulnerability assessments on various product-based applications using both manual and automated tools.</li></ul>
 <ul><li>Collaborated with client technical teams to address security gaps and provided tailored recommendations for PCI DSS compliance.</li></ul>
 <ul><li>Led PCI DSS compliance assessments, evaluated payment card processing environments, and recommended remediation strategies.</li></ul>
