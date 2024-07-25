@@ -1,0 +1,1 @@
+<html><head><meta name="viewport" content="width=device-width"><title>https://www.zhackx.in/jqueryxss</title><link rel="stylesheet" type="text/css" href="resource://content-accessible/viewsource.css"></head><body id="viewsource" class="highlight" style="tab-size: 4"><pre>alert(document.cookie);</pre></body></html>
