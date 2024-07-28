@@ -1,6 +1,6 @@
 ---
 title: "AEM"
-layout: page
+layout: post
 date: 2024-07-28 18:00
 image: https://galnagli.com/images/wordpress-plugin-confusion.png
 headerImage: false
